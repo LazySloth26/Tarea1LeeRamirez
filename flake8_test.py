@@ -1,4 +1,4 @@
-
+# ERR8 (-4)
 numeros = []  # Crea la lista llamada numeros
 cantidad = int(input("Indique la cantidad de números que ingresará: "))
 while cantidad > 0:

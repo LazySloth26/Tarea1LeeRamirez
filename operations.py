@@ -1,4 +1,6 @@
 
+# ERR7 (-5)
+# ERR11
 # Se crea una función que realiza las operaciones según el número de operación ingresado
 def basic_ops_auxiliar(x, y, operation):
     if operation == 1:  # Si se envía un 1 al parámetro operation, realiza una suma
